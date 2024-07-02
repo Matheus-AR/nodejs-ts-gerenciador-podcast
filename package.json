@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Um gerenciador de podcast usando nodejs, typescript e http module.",
   "main": "index.js",
-  "type": "module",
   "directories": {
     "doc": "docs"
   },

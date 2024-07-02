@@ -1,0 +1,14 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "id",
+        "categories": ["saúde", "fitness"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Rubens Barrichelo - Flow #320",
+        "videoId": "id",
+        "categories": ["esporte", "corrida"]
+    }
+]
