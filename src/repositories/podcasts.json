@@ -10,5 +10,11 @@
         "episode": "Rubens Barrichelo - Flow #320",
         "videoId": "id",
         "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Xuxa - Venus #320",
+        "videoId": "id",
+        "categories": ["humor"]
     }
 ]

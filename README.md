@@ -1,7 +1,7 @@
 # Gerenciador de Podcast
 
 ## Sobre
-Um gerenciador de podcast usando nodejs, typescript e http module.
+Um gerenciador de podcast usando nodejs, typescript e sem framework.
 
 ## Aprendizado
 - criar server http na prática usando um pacote pronto do nodejs
